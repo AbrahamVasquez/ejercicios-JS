@@ -1,2 +1,2 @@
 # ejercicios-JS
-Ejercicios de la clase de ayes
+Ejercicios de la clase de ayer
